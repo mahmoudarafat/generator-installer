@@ -16,6 +16,7 @@ then
 
 then 
 ` npm install `
+and
 ` npm run dev `
 
 then
