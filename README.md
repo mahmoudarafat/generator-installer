@@ -34,4 +34,4 @@ import files from https://github.com/mahmoudarafat/helper-trait and paste it in 
 
 
 if you got error in RouteServiceProvider.php 
-open it and remove lines added - it may duplicated
+open it and remove lines added - it may duplicated after namespace App\Providers;
