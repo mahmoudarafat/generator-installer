@@ -20,6 +20,9 @@ and
 ` npm run dev `
 
 then
+` php artisan albadrsystems:publish `
+
+then
 ` php artisan albadrsystems.publish:generator-builder `
 
 then 
