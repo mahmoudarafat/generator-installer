@@ -5,7 +5,7 @@
     "keywords": ["crud", "generate files", "generate models", "generate controllers", "generate repositories"],
     "license": "MIT",
     "require": {
-        "albadrsystems/crud-generator": "^1.0",
+        "albadrsystems/crud-generator": "^2.0",
         "albadrsystems/generator-builder": "^1.0",
         "albadrsystems/laravel-generator-helpers": "^1.0",
         "albadrsystems/laravel-ui-stisla": "^2.0",
