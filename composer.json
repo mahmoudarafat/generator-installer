@@ -1,0 +1,15 @@
+{
+    "name": "albadrsystems/laravel-crud-generator",
+    "type": "package",
+    "description": "crud packages installer for albadr systems.",
+    "keywords": ["crud", "generate files", "generate models", "generate controllers", "generate repositories"],
+    "license": "MIT",
+    "require": {
+        "albadrsystems/crud-generator": "^1.0",
+        "albadrsystems/generator-builder": "^1.0",
+        "albadrsystems/laravel-generator-helpers": "^1.0",
+        "albadrsystems/laravel-ui-stisla": "^1.0",
+        "albadrsystems/stisla-templates": "^1.0"
+    
+    }
+}

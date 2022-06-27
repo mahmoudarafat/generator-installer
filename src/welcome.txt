@@ -1,0 +1,1 @@
+installer for all dependancies fo crud generator
