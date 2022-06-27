@@ -9,7 +9,7 @@
         "albadrsystems/generator-builder": "^1.0",
         "albadrsystems/laravel-generator-helpers": "^1.0",
         "albadrsystems/laravel-ui-stisla": "^2.0",
-        "albadrsystems/stisla-templates": "^1.0"
+        "albadrsystems/stisla-templates": "^2.0"
     
     }
 }
