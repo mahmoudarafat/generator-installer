@@ -28,6 +28,9 @@ then
 then 
 ` php artisan albadrsystems.publish:layout ` // accept changes
 
+then // publish default user crud
+` php artisan albadrsystems.publish:user `
+
 very important
 ===========
 import files from https://github.com/mahmoudarafat/helper-trait and paste it in app folder [ app/Traits/RepositoryTrait.php ]
