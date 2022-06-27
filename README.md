@@ -23,3 +23,8 @@ then
 
 then 
 ` php artisan albadrsystems.publish:layout ` // accept changes
+
+very important
+===========
+import files from https://github.com/mahmoudarafat/helper-trait and paste it in app folder [ app/Traits/RepositoryTrait.php ]
+
