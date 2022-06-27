@@ -1,5 +1,7 @@
 # LARAVEL GENERATOR 
 
+https://packagist.org/packages/albadrsystems/laravel-crud-generator
+
 # require laravel 9
 
 ## how to install
