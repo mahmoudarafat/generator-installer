@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "albadrsystems/crud-generator": "^7.0",
-        "albadrsystems/generator-builder": "^6.0",
+        "albadrsystems/generator-builder": "^7.0",
         "albadrsystems/laravel-generator-helpers": "^2.0",
         "albadrsystems/laravel-ui-stisla": "^4.0",
         "albadrsystems/stisla-templates": "^4.0"
